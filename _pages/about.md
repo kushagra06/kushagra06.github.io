@@ -7,13 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research engineer at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India. Currently, I am working with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) in combining multi-agent reinforcement learning with propositional logic based domain/human constraints. 
+I am a grauduate student at the University of Alberta, primarily interseted in reinforcement learning.
 
-In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in [Prof. Kenji Doya's](https://groups.oist.jp/ncu/kenji-doya) lab. I also did a bit of computational physics, enough to make some trouble, spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel and write my Masters [thesis](http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/809).
+Previously, I was research engineer with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
+
+<!-- I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India.  -->
+
+<!-- Currently, I am working with  in combining multi-agent reinforcement learning with propositional logic based domain/human constraints.  -->
+
+<!-- In the past, I spent a lovely summer at [OIST](https://www.oist.jp/), Japan, working on reinforcement learning and neuroscience in [Prof. Kenji Doya's](https://groups.oist.jp/ncu/kenji-doya) lab. I also did a bit of computational physics, enough to make some trouble, spend a wonderful [summer](http://www.weizmann.ac.il/particle/atlas/kupcinet-getz-summer-2017) in [Prof. Alexander Milov's](http://www.weizmann.ac.il/particle/atlas/) lab at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/) in Israel and write my Masters [thesis](http://web2py.iiit.ac.in/research_centres/publications/view_publication/mastersthesis/809). -->
 
 Research Interests
 =====
-Sequential decision making, reinforcement learning, probabilistic graphical models, computational cognitive science, machine learning. <br/>
+Sequential decision making, reinforcement learning, machine learning. <br/>
 
 You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
 Email: kushagrachandak06-AT-gmail-DOT-com

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kushagra Chandak"
 title_separator          : "-"
 name                     : &name "Kushagra Chandak"
-description              : &description "Research Engineer"
+description              : &description "Graduate Student"
 url                      : https://kushagra06.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kushagra06.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Kushagra Chandak"
   avatar           : "jodhpur-pic-1.jpg"
-  bio              : "Research Engineer at School of Information Systems, SMU, Singapore"
-  location         : "Singapore"
+  bio              : "Graduate Student, University of Alberta"
+  location         : "Edmonton"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=abw36r8AAAAJ&hl=en"

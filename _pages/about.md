@@ -22,7 +22,7 @@ Research Interests
 Sequential decision making, reinforcement learning, machine learning. <br/>
 
 You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/>
-Email: kushagrachandak06-AT-gmail-DOT-com
+Email: k{lastname}-AT-ualberta.ca
 
 ## News
 * Our paper titled **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted for publication at the 31st *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 

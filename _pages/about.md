@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a grauduate student at the University of Alberta, primarily interseted in reinforcement learning.
 
-Previously, I was research engineer with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
+Previously, I was a research engineer with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
 
 <!-- I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India.  -->
 

@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a grauduate student at the University of Alberta, primarily interseted in sequential decision making, reinforcement learning and machine learning.
+I am a grauduate student at the University of Alberta working with the wonderful [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/index.html). 
 
 Previously, I was a research engineer with [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/index.html) at the [School of Computing and Information Systems](https://scis.smu.edu.sg/), Singapore Management University in Singapore. 
 

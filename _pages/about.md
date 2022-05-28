@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a grauduate student at the University of Alberta working with the wonderful [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/index.html).   
+I am a graduate student at the University of Alberta working with the wonderful [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/index.html).   
 
 <!-- I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India.  -->
 

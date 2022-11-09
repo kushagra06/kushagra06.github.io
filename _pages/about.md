@@ -17,7 +17,7 @@ I am a graduate student at the University of Alberta working with the wonderful 
 
 Research Interests
 =====
-Sequential decision making, reinforcement learning, machine learning. <br/>
+Reinforcement learning, online learning. <br/>
 
 <!-- You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf). <br/> -->
 Email: k{lastname}-AT-ualberta.ca

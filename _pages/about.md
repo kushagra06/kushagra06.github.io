@@ -19,7 +19,7 @@ Research Interests
 =====
 Reinforcement learning, online learning. <br/>
 
-You can find my CV [here]([http://kushagra06.github.io/files/kushagra_resume.pdf](https://drive.google.com/file/d/1XAndNuhGpLHsd7ptxik6yaHcAArBi-tr/view?usp=sharing). <br/>
+You can find my CV [here](http://kushagra06.github.io/files/kushagra_resume.pdf](https://drive.google.com/file/d/1XAndNuhGpLHsd7ptxik6yaHcAArBi-tr/view?usp=sharing). <br/>
 Email: k{lastname}-AT-ualberta.ca
 
 ## News

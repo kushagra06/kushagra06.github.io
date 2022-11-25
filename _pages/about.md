@@ -17,7 +17,7 @@ I am a graduate student at the University of Alberta working with the wonderful 
 
 Research Interests
 =====
-Reinforcement learning, online learning. <br/>
+Reinforcement learning, bandits. <br/>
 
 You can find my resume [here](https://drive.google.com/file/d/1XAndNuhGpLHsd7ptxik6yaHcAArBi-tr/view?usp=sharing). <br/>
 Email: k{lastname}-AT-ualberta.ca

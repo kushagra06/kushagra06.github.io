@@ -22,11 +22,14 @@ main:
 #   - title: "Preprints/Publications"
 #     url: /pubs/
   
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
   
-  - title: "Notes/Tutorials"
-    url: /notes/
+#   - title: "Notes/Tutorials"
+#     url: /notes/
+
+  - title: "Old Stuff"
+    url: /old_stuff/
   
   - title: "Miscellaneous"
     url: /misc/  

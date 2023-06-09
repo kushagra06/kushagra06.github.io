@@ -22,9 +22,9 @@ Reinforcement learning, bandits. <br/>
 You can find my resume [here](https://drive.google.com/file/d/1XAndNuhGpLHsd7ptxik6yaHcAArBi-tr/view?usp=sharing). <br/>
 Email: k{lastname}-AT-ualberta.ca
 
-## News
+<!-- ## News
 * Our paper **Knowledge Compilation with Reinforcement Learning for Routes** has been accepted for publication at the 31st *International Conference on Automated Planning and Scheduling (ICAPS), 2021*, to be held in Sun Yat-Sen University, Guangzhou, China! 
-
+ -->
 <!-- I have three broad research interests.
 
 * I like working on problems in reinforcement learning and AI & ML in general. 

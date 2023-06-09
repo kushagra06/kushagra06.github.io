@@ -4,7 +4,7 @@ title: ""
 permalink: /projects/
 author_profile: true
 ---
-## Current
+<!-- ## Current -->
 
 ## Internship Projects
 

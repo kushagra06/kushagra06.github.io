@@ -18,8 +18,9 @@ main:
   # - title: "CV"
   #   url: /cv/
   
-  - title: "Preprints/Publications"
-    url: /pubs/
+  
+#   - title: "Preprints/Publications"
+#     url: /pubs/
   
   - title: "Projects"
     url: /projects/

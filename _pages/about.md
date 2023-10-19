@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a graduate student at the University of Alberta working with [Xiaoqi Tan](https://xiaoqitan.org/). I received my master's from the University of Alberta with [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and [Nidhi Hegde](https://sites.ualberta.ca/~nidhih/).
+I am a graduate student at the University of Alberta working with [Xiaoqi Tan](https://xiaoqitan.org/). I also received my master's from the University of Alberta with [Csaba Szepesvari](https://sites.ualberta.ca/~szepesva/) and [Nidhi Hegde](https://sites.ualberta.ca/~nidhih/).
 
 <!-- I received my Bachelors in Computer Science and Masters in Computational Natural Sciences from [IIIT, Hyderabad](https://www.iiit.ac.in/), India.  -->
 

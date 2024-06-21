@@ -5,6 +5,16 @@ permalink: /misc/
 author_profile: true
 ---
 
+* Sports: [Run the River, Spring 2024](http://kushagra06.github.io/images/run-the-river.jpg) [Badminton: India Western's, Nov 2010](http://kushagra06.github.io/images/badminton.jpeg)
+
+* Badminton: 
+
+* Music: [Felicity'16](http://kushagra06.github.io/images/guitar.png), [Inter-house competition final year](http://kushagra06.github.io/images/tabla.jpg). 
+
+* Internships: [OIST](http://kushagra06.github.io/images/oist.jpeg) and [Weizmann](http://kushagra06.github.io/images/wis.jpg) 
+
+
+
 * As a kid and teenager, I enjoyed playing badminton. I represented my state Rajasthan in the under-14 age group category at the national championship held in Pune, India. [Here's](http://kushagra06.github.io/images/badminton.jpeg) a blurry picture.
 
 * I tried learning Tabla for some time as an early teen. I learned it for a couple of years but never became very good at it. Although, I played it from time to time. [Here's](http://kushagra06.github.io/images/tabla.jpg) a picture from college days. I also [tried](http://kushagra06.github.io/images/guitar.png) my hands at guitar. Didn't do particularly well with that either.

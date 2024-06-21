@@ -10,7 +10,7 @@ author_profile: true
    * [Badminton: India Western's, Nov 2010](http://kushagra06.github.io/images/badminton.jpeg)
 
 * Music:
-  * [Felicity'16](http://kushagra06.github.io/images/guitar.png)
+  * [Felicity'17](http://kushagra06.github.io/images/guitar.png)
   * [Inter-house competition final year](http://kushagra06.github.io/images/tabla.jpg) 
 
 * Internships:

@@ -31,8 +31,8 @@ main:
   - title: "Old Stuff"
     url: /old_stuff/
   
-#  - title: "Miscellaneous"
-#    url: /misc/  
+  - title: "Miscellaneous"
+    url: /misc/  
   
   # - title: "Guide"
   #   url: /markdown/

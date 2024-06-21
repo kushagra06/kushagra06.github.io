@@ -7,8 +7,6 @@ author_profile: true
 
 * Sports: [Run the River, Spring 2024](http://kushagra06.github.io/images/run-the-river.jpg) [Badminton: India Western's, Nov 2010](http://kushagra06.github.io/images/badminton.jpeg)
 
-* Badminton: 
-
 * Music: [Felicity'16](http://kushagra06.github.io/images/guitar.png), [Inter-house competition final year](http://kushagra06.github.io/images/tabla.jpg). 
 
 * Internships: [OIST](http://kushagra06.github.io/images/oist.jpeg) and [Weizmann](http://kushagra06.github.io/images/wis.jpg) 

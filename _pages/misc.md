@@ -7,7 +7,7 @@ author_profile: true
 
 * Sports:
    * [Run the River, Spring 2024](http://kushagra06.github.io/images/run-the-river.jpg)
-   * [Badminton: CBSE West Cluster Trounament, Nov 2010](http://kushagra06.github.io/images/badminton.jpeg)
+   * [Badminton: CBSE West Cluster Tournament, Nov 2010](http://kushagra06.github.io/images/badminton.jpeg)
 
 * Music:
   * [Felicity'17](http://kushagra06.github.io/images/guitar.png)
